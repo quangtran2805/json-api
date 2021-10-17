@@ -65,10 +65,10 @@
     {
       "id": "7",
       "badge": "Món mới",
-      "imgUrl": "https://phuclong.com.vn/uploads/dish/82d9495c75a9f0-tovdup.jpg",
-      "name": "Táo và Dâu ép",
-      "desc": "Forest Fruit",
-      "price": 50000,
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/84b78c9f816e91-lemonblacktea.png",
+      "name": "Hồng Trà Chanh",
+      "desc": "Lemon Black Tea",
+      "price": 40000,
       "btn": "ĐẶT HÀNG",
       "quantity": 1
     },
@@ -78,6 +78,86 @@
       "imgUrl": "https://phuclong.com.vn/uploads/dish/2c5ffdb6ebd651-trsaphclong.png",
       "name": "Trà Sữa Phúc Long",
       "desc": "Phuc Long Tea Latte",
+      "price": 45000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "9",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/3937476a64a213-trophclong.png",
+      "name": "Trà Đào Phúc Long",
+      "desc": "Phuc Long Peach Tea",
+      "price": 50000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "10",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/d986f8908cdd27-trsaphclong.png",
+      "name": "Hồng Trà Sữa",
+      "desc": "Phuc Long Black Milk Tea",
+      "price": 40000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "11",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/0111eed6c489f1-trsaphclong.png",
+      "name": "Trà Ô Long Sữa",
+      "desc": "Oolong Milk Tea",
+      "price": 45000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "12",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/e160951ba017fe-trviliphclong.png",
+      "name": "Trà Vải - Sen",
+      "desc": "Lychee Tea (Lotus)",
+      "price": 45000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "13",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/063555c21c4206-trviliphclong.png",
+      "name": "Trà Vải - Lài",
+      "desc": "Lychee Tea (Jasmine)",
+      "price": 45000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "14",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/4eef9292db8810-trhoahngphclong.png",
+      "name": "Trà Hoa Hồng",
+      "desc": "Rose Tea",
+      "price": 45000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "15",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/c6056c9dda0af3-trsaphclong.png",
+      "name": "Trà Đào Sữa",
+      "desc": "Peach Milk Tea",
+      "price": 40000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "16",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/d6fb6a8a92fe40-trxanhlatte.png",
+      "name": "Latte Trà Xanh",
+      "desc": "Matcha Latte",
       "price": 45000,
       "btn": "ĐẶT HÀNG",
       "quantity": 1
