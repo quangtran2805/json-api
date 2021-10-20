@@ -161,6 +161,86 @@
       "price": 45000,
       "btn": "ĐẶT HÀNG",
       "quantity": 1
+    },
+    {
+      "id": "17",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/b38daeea9c88a7-cphsenvnghnhnhnxayphclong.png",
+      "name": "Cà Phê Sen Vàng HN Đá Xay",
+      "desc": "Almond Lotus Cappucino Crunch",
+      "price": 75000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "18",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/010dda166794bc-trxanhxayphclong.png",
+      "name": "Trà xanh đá xay",
+      "desc": "Green Tea Ice Blended",
+      "price": 55000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "19",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/83168aba00828b-troxayphclong.png",
+      "name": "Trà Đào đá xay",
+      "desc": "Peach Tea",
+      "price": 65000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "20",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/a2ec40df95344c-cphdaxayvthchphclong.png",
+      "name": "Cà phê Dừa xay và thạch",
+      "desc": "Coffee Tropical Smoothie",
+      "price": 65000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "21",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/4726c0494a3e25-sclacphxay.png",
+      "name": "Sô-cô-la Cà phê đá xay",
+      "desc": "Choco Lover",
+      "price": 55000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "22",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/7fa4fa7e12d7a0-bnhoreoxaycngcph.png",
+      "name": "Bánh Oreo xay cùng cà phê Cappuccino",
+      "desc": "Oreo Cappuccino Blast",
+      "price": 55000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "23",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/84b78c9f816e91-lemonblacktea.png",
+      "name": "Hồng Trà Chanh",
+      "desc": "Lemon Black Tea",
+      "price": 40000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
+    },
+    {
+      "id": "24",
+      "badge": "Món mới",
+      "imgUrl": "https://phuclong.com.vn/uploads/dish/2c5ffdb6ebd651-trsaphclong.png",
+      "name": "Trà Sữa Phúc Long",
+      "desc": "Phuc Long Tea Latte",
+      "price": 45000,
+      "btn": "ĐẶT HÀNG",
+      "quantity": 1
     }
   ]
 
